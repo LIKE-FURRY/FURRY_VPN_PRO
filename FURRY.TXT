@@ -4,9 +4,9 @@ profile-title: FURRY VPN FREE
 #support-url: https://t.me/FURRY_VPN_FREE
 #profile-web-page-url: https://t.me/FURRY_VPN_FREE
 #hide-settings: 1
-#sub-source: https://ТВОЙ_САЙТ.ру/sub /исходная ссылка на подписку (откуда скачана)
+#sub-source: https://github.com/LIKE-FURRY/
 #sub-info: Только одборные сервера и бесплатный впн 
-#update-url: https://cdn.ТВОЙ_САЙТ.ру/latest.txt /прямая ссылка для автообновления конфигов
+#update-url: https://raw.githubusercontent.com/LIKE-FURRY/FURRYVPNFREE/refs/heads/main/FURRY.TXT
 #user-info: ↑ 15GB ↓ 85GB | Всего: 500GB | Осталось: 400GB | Срок: 31.12.2026 /статистика трафика и срок действия
 #remark: НЕ СЛИВАТЬ ❗
 #color: #00FF88 
