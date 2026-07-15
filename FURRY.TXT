@@ -1,4 +1,4 @@
-profile-title: FURRY-VPN-FREE
+#profile-title: FURRY-VPN-FREE
 #profile-update-interval: 1
 #announce: Стабильный пушистый VPN который обходит все блокировки.
 #support-url: https://t.me/FURRY_VPN_FREE
