@@ -1,15 +1,15 @@
-profile-title: FURRY VPN
+profile-title: FURRY VPN FREE
 #profile-update-interval: 1
 #announce: Стабильный пушистый VPN который обходит все блокировки.
 #support-url: https://t.me/FURRY_VPN_FREE
 #profile-web-page-url: https://t.me/FURRY_VPN_FREE
 #hide-settings: 1
 #sub-source: https://ТВОЙ_САЙТ.ру/sub /исходная ссылка на подписку (откуда скачана)
-#sub-info: 🇷🇺 Россия | 🇳🇱 Нидерланды | 🇩🇪 Германия | 10Gbps /краткая инфа о подписке (страны, скорость)
+#sub-info: Только одборные сервера и бесплатный впн 
 #update-url: https://cdn.ТВОЙ_САЙТ.ру/latest.txt /прямая ссылка для автообновления конфигов
 #user-info: ↑ 15GB ↓ 85GB | Всего: 500GB | Осталось: 400GB | Срок: 31.12.2026 /статистика трафика и срок действия
-#remark: Приватный доступ | Тариф Premium /заметка (не отображается в клиенте, просто для себя)
-#color: #00FF88 /цвет подписки в клиенте в HEX-формате (зелёный)
+#remark: НЕ СЛИВАТЬ ❗
+#color: #00FF88 
 #icon: https://ТВОЙ_САЙТ.ру/icon.png /ссылка на иконку подписки (PNG, 64x64 или 128x128)
-#expire: 2026-12-31 /дата истечения подписки
-#quota: 500GB /максимальный трафик на подписку (500GB, 1TB, ∞ = безлимит)
+#expire: 2028-11-12
+#quota: ∞
