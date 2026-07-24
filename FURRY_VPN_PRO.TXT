@@ -1,4 +1,4 @@
-#hide-settings: 1
+#hide-servers: true
 #profile-title: FURRY_VPN_PRO🏳
 #profile-update-interval: 1
 #announce: Стабильный, пушистый VPN который обходит все блокировки бесплатно. ИСПОЛЬЗОВАТЬ ТОЛЬКО ПРИ БЕЛЫХ СПИСКАХ
