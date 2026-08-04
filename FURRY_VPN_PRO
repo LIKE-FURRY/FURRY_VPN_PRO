@@ -1,7 +1,11 @@
 #hide-servers: true
 #hide-setting : true
+#skip-servers: true
+#hide: true
 #hide-servers: 1
 #hide-setting : 1
+#hide: 1
+#skip-servers: 1
 #profile-title: FURRY VPN PRO🚀
 #profile-update-interval: 1
 #announce: Стабильный, пушистый VPN который обходит все блокировки бесплатно. СОВМЕСТНАЯ ПОДПИСКА @FURRY_VPN_PRO и @pavinsa
