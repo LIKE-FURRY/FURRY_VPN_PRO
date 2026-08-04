@@ -12,7 +12,12 @@
 #expire: 2028-11-12
 
 
-#конфиги pon9il
+# тут эту влесс не трогай ! 
+
+vless://pon9il@pavinsa#от @pavinsa ⬇️
+
+# это значит что твои конфиги 
+# конфиги pon9il
 
 vless://c9292ce9-60ed-4455-9930-7e07fd8df222@images-snl36.fresh-fruit.net:443?encryption=none&security=tls&sni=images-snl36.fresh-fruit.net&alpn=h2%2C%20http%2F1.1&fp=firefox&type=xhttp&mode=packet-up&host=images-snl36.fresh-fruit.net&path=%2Fapi%2Fv1%2Fsync&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2Fapi%2Fv1%2Fsync%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22scMaxEachPostBytes%22%3A524288.0%2C%22scMaxConcurrentPosts%22%3A1.0%2C%22scMinPostsIntervalMs%22%3A150.0%7D#%F0%9F%87%B3%F0%9F%87%B1%20LTE
 vless://c9292ce9-60ed-4455-9930-7e07fd8df222@ger30-images1.fishing-tackle.org:443?encryption=none&security=tls&sni=ger30-images1.fishing-tackle.org&alpn=h2%2C%20http%2F1.1&fp=firefox&type=xhttp&mode=packet-up&host=ger30-images1.fishing-tackle.org&path=%2Fapi%2Fv1%2Fsync&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2Fapi%2Fv1%2Fsync%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22scMaxEachPostBytes%22%3A524288.0%2C%22scMaxConcurrentPosts%22%3A1.0%2C%22scMinPostsIntervalMs%22%3A150.0%7D#%F0%9F%87%A9%F0%9F%87%AA%20LTE
@@ -43,7 +48,12 @@ ss://chacha20-ietf-poly1305:bIOoi5TuImG2KccxV7-jcA7Cez+vun-c_E@104.156.233.234:2
 ss://chacha20-ietf-poly1305:TWG7J1KR5KsPaV5qZI+rieueKxxafZSpCH@45.77.232.213:15675#%F0%9F%87%A6%F0%9F%87%BA%20LTE
 
 
-#конфиги FURRY 
+# тут эту влесс не трогай ! 
+
+vless://@FURRY_VPN_FREE@DimaGinkelFurry#от @FURRY_VPN_FREE ⬇️
+
+# это значит что мои конфиги 
+# конфиги FURRY 
 
 vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.ru&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#Нидерланды 🇳🇱 1
 vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.ru&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&spx=%2F&type=tcp&headerType=none#Нидерланды 🇳🇱 2
