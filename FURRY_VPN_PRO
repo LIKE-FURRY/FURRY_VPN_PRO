@@ -62,5 +62,15 @@ vless://@FURRY_VPN_FREE@DimaGinkelFurry#от @FURRY_VPN_FREE ⬇️
 
 # только отборный LTE
 
-hysteria2://e86fd04e-a2f5-4779-a529-748b1813cbc2@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#Россия 🇷🇺 1
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&fp=firefox&type=tcp&headerType=none#Россия 🇷🇺 2
+vless://aa8b4a23-655f-0001-aef6-27b0c45e7877@46.8.210.102:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&sid=0f4daaf87f9dff&type=tcp&headerType=none#Россия 🇷🇺 1
+vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@109.120.188.54:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661&type=tcp&headerType=none#Россия 🇷🇺 2
+vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=firefox&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&sid=0dacf3306f&type=tcp&headerType=none#Россия 🇷🇺 3
+vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@109.120.189.154:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&sid=6aa44564cda562bc&type=tcp&headerType=none#Россия 🇷🇺 4
+vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@194.55.239.14:9442?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=4T_g0pGf0GLsp9y7xfFGY8Iy-TGH-gcsCAHwkOPPhG0&sid=4321916c00ee1ca6&type=tcp&headerType=none#Россия 🇷🇺 5
+vless://aa8b4a23-655f-0003-aef6-27b0c45e7877@46.8.210.112:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&sid=0f4daaf87f9dff&type=tcp&headerType=none#Россия 🇷🇺 6
+vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=firefox&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#Россия 🇷🇺 7
+hysteria2://e86fd04e-a2f5-4779-a529-748b1813cbc2@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#Россия 🇷🇺 8
+vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8&type=tcp&headerType=none#Россия 🇷🇺 9
+hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#Россия 🇷🇺 10
+hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?security=tls&fm=%7B%7D&sni=quic.tyr-agentstvo.tech#Россия 🇷🇺 11
+vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=firefox&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&sid=0dacf3306f&type=tcp&headerType=none#Россия 🇷🇺 12
