@@ -25,6 +25,8 @@ vless://pon9il@pavinsa#от @pavinsa ⬇️
 #
 
 #Бс 
+
+
 #хорошо, вот новые, надо будет постестить
 #и кстати это случайно не через твой днс? furrycdn
 
@@ -68,10 +70,27 @@ vless://@FURRY_VPN_FREE@DimaGinkelFurry#от @FURRY_VPN_FREE ⬇️
 
 # только отборный LTE
 
+
+vless://e2f3da4d-39ab-4d9f-8294-4e6199b0c129@185.58.223.210:4448?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=x8u5lepgdONTBW2tIqsdhBqXBHdCfekJg5-NGK7nlGE&type=grpc&mode=gun&authority=&serviceName=#Польша 🇵🇱 1
 vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=edge&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#Россия 🇷🇺 1
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=chrome&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#Россия 🇷🇺 2
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=firefox&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#Россия 🇷🇺 3
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#Россия 🇷🇺 4
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&fp=firefox&type=tcp&headerType=none#Россия 🇷🇺 5
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&type=tcp&headerType=none#Россия 🇷🇺 6
+vless://e6601d79-8a5f-46f9-a610-534a2703e1ce@81.94.148.119:65056?flow=xtls-rprx-vision&encryption=none&security=reality&sni=iv.kommersant.ru&fp=chrome&pbk=K6K0OS6d6Pg_GK3DwIOwjnXOdTVAyn7uEWeSUYECBhM&sid=d853dc58&type=tcp&headerType=none#Россия 🇷🇺 7
+vless://e04a778c-4c83-4fe0-9f52-e6b7bcb59c7c@78.159.245.249:1111?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&type=tcp&headerType=none#Великобритания 🇬🇧 1
+vless://7f9e1efd-7676-4472-b092-57f07685f542@81.163.23.187:7444?flow=xtls-rprx-vision&encryption=none&security=reality&sni=google.com&fp=firefox&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&type=tcp&headerType=none#Германия 🇩🇪 1
 
 # из подписок взятых с ботов 
 
-vless://0fe1e823-0213-4479-8cdd-964e78bb748c@shh-subs.mooo.com:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Nz4qJaZ2xCiFA0AvdU33xt45WIJoFle2pgMIlb2jhEA&security=reality&sid=befe120d6e57f6&sni=www.sony.com&spx=%2FCEmIXY1MC7vazYI&type=tcp#Финляндия 🇫🇮 1
-vless://0fe1e823-0213-4479-8cdd-964e78bb748c@94.183.157.123:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=c-BHW_-nU9vrPfqKdAqwC_hp3kkOiGu7trFsGg0Wi2Q&security=reality&sid=634e313bb573&sni=timeline.www.cloudflare.com&spx=%2FbTXdBWLwDpZGkXf&type=tcp#Польша 🇵🇱 1
-vless://0fe1e823-0213-4479-8cdd-964e78bb748c@185.136.12.28:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AJaF22KofrLCIR4CTB1vtLk-jFOD2uZXbuUh2cKT4Bk&security=reality&sid=4e3800fbe1d7&sni=ai.android&spx=%2FES4CjtKHHQIUriu&type=tcp#Германия 🇩🇪 1
+#LTE
+
+#Wi-Fi
+
+
+vless://0fe1e823-0213-4479-8cdd-964e78bb748c@94.183.157.123:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=timeline.www.cloudflare.com&fp=firefox&pbk=c-BHW_-nU9vrPfqKdAqwC_hp3kkOiGu7trFsGg0Wi2Q&sid=634e313bb573&spx=%2FbTXdBWLwDpZGkXf&type=tcp&headerType=none#Wi-Fi Польша 🇵🇱 1
+vless://0fe1e823-0213-4479-8cdd-964e78bb748c@185.136.12.28:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ai.android&fp=firefox&pbk=AJaF22KofrLCIR4CTB1vtLk-jFOD2uZXbuUh2cKT4Bk&sid=4e3800fbe1d7&spx=%2FES4CjtKHHQIUriu&type=tcp&headerType=none#Wi-Fi Германия 🇩🇪 1
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=edge&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#Wi-Fi Россия 🇷🇺 1
+vless://0fe1e823-0213-4479-8cdd-964e78bb748c@94.183.157.123:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=c-BHW_-nU9vrPfqKdAqwC_hp3kkOiGu7trFsGg0Wi2Q&sid=93299f&spx=%2FZLHT5gyPzFIuhWb&type=tcp&headerType=none#Wi-Fi Польша 🇵🇱 2
+vless://0fe1e823-0213-4479-8cdd-964e78bb748c@185.136.12.28:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g.co&fp=firefox&pbk=AJaF22KofrLCIR4CTB1vtLk-jFOD2uZXbuUh2cKT4Bk&sid=705f69c843&spx=%2FhQFA3KyR6UzS1T5&type=tcp&headerType=none#Wi-Fi Германия 🇩🇪 2
