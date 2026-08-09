@@ -62,5 +62,8 @@ vless://ad304eb2-5eca-001d-9983-74ae935ba10e@178.248.236.228:60443?flow=xtls-rpr
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&type=tcp&headerType=none#Россия 🇷🇺 12
 vless://ad304eb2-5eca-0009-9983-74ae935ba10e@178.248.236.228:61443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#Россия 🇷🇺 13
 
-# 
+# из подписок взятых с ботов 
 
+vless://0fe1e823-0213-4479-8cdd-964e78bb748c@shh-subs.mooo.com:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Nz4qJaZ2xCiFA0AvdU33xt45WIJoFle2pgMIlb2jhEA&security=reality&sid=befe120d6e57f6&sni=www.sony.com&spx=%2FCEmIXY1MC7vazYI&type=tcp#Финляндия 🇫🇮 1
+vless://0fe1e823-0213-4479-8cdd-964e78bb748c@94.183.157.123:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=c-BHW_-nU9vrPfqKdAqwC_hp3kkOiGu7trFsGg0Wi2Q&security=reality&sid=634e313bb573&sni=timeline.www.cloudflare.com&spx=%2FbTXdBWLwDpZGkXf&type=tcp#Польша 🇵🇱 1
+vless://0fe1e823-0213-4479-8cdd-964e78bb748c@185.136.12.28:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AJaF22KofrLCIR4CTB1vtLk-jFOD2uZXbuUh2cKT4Bk&security=reality&sid=4e3800fbe1d7&sni=ai.android&spx=%2FES4CjtKHHQIUriu&type=tcp#Германия 🇩🇪 1
