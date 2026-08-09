@@ -30,6 +30,37 @@ vless://pon9il@pavinsa#от @pavinsa ⬇️
 
 # я удалил сервера так как они не работали 
 
+#хорошо, вот новые, надо будет постестить
+#и кстати это случайно не через твой днс? furrycdn
+
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 LTE 1
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=secure.furrycdn.net#🇷🇺 LTE 2
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 LTE 3
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=secure.furrycdn.net#🇷🇺 LTE 4
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 LTE 5
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 LTE 6
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=secure.furrycdn.net#🇷🇺 LTE 7
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 LTE 8
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 LTE 9
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 LTE 10
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=secure.furrycdn.net#🇷🇺 LTE 11
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?allowInsecure=1&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&type=tcp#🇷🇺 LTE 12
+hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?sni=quic.tyr-agentstvo.tech&insecure=0&allowInsecure=0#🇷🇺 LTE 13
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=tcp&fp=chrome#🇷🇺 LTE 14
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw&fp=edge#🇷🇺 LTE 15
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw#🇷🇺 LTE 16
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=tcp&fp=edge#🇷🇺 LTE 17
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw#🇷🇺 LTE 18
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?security=reality&type=raw&packetEncoding=xudp&sni=rutube.ru&fp=edge&flow=xtls-rprx-vision&sid=000443436f&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&encryption=none#🇷🇺 LTE 19
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=tcp&fp=firefox#🇷🇺 LTE 20
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?allowInsecure=1&flow=xtls-rprx-vision&fp=firefox&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=tcp#🇷🇺 LTE 21
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sni=rutube.ru&sid=000443436f#🇷🇺 LTE 22
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 LTE 23
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&sni=rutube.ru#🇷🇺 LTE 24
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&sni=rutube.ru#🇷🇺 LTE 25
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&sni=rutube.ru#🇷🇺 LTE 26
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=secure.furrycdn.net#🇷🇺 LTE 27
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=secure.furrycdn.net#🇷🇺 LTE 28
 
 
 # WI-FI
