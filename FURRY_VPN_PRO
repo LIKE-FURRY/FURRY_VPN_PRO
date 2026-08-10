@@ -58,6 +58,17 @@ hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&f
 hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#🇪🇪🚀LTE 23
 hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#🇪🇪🚀LTE 24
 ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@193.29.139.230:8080#🇬🇧💤LTE 25
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=firefox&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#🇷🇺 LTE T2 26
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=chrome&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#🇷🇺 LTE T2 27
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=edge&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#🇷🇺 LTE T2 28
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=edge&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#🇷🇺 LTE T2 29
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=firefox&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#🇷🇺 LTE T2 30
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&fp=chrome&type=tcp&headerType=none#🇷🇺 LTE T2 31
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&fp=firefox&type=tcp&headerType=none#🇷🇺 LTE T2 32
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&type=tcp&headerType=none#🇷🇺 LTE T2 33
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&fp=chrome&type=tcp&headerType=none#🇷🇺 LTE T2 34
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&fp=firefox&type=tcp&headerType=none#🇷🇺 LTE T2 35
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&type=tcp&headerType=none#🇷🇺 LTE T2 36
 
 # WI-FI
 
