@@ -42,11 +42,14 @@ vless://@FURRY_VPN_FREE@DimaGinkelFurry#от @FURRY_VPN_FREE ⬇️
 
 # только отборный LTE
 
+vless://16a1eeb0-8408-4592-a469-ecd33751021e@194.55.239.169:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=b.res-nsdi.ru&fp=firefox&pbk=2i44blncih-bAe23xs__1d4v--k167IpJhzvznqkTW0&type=tcp&headerType=none#Германия 🇩🇪 1
+trojan://a80c969b-b6ba-49d4-9fb5-9a1a7c1c4e75@46.182.24.50:2085?security=reality&sni=ads.x5.ru&fp=firefox&pbk=k7bOaMWpjIndkyWDw3WgzWTlE9mSYYbrvNDzdr0Nuwc&sid=c226283c4de5b1ad&type=tcp&headerType=none#Германия 🇩🇪 2
+vless://58a64424-53d2-4b44-87f4-136aad59d4fa@31.184.215.130:444?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=rI6DHOxduRhc-0r-vPZRspAY9za5XdYws0-STGOmEzk&sid=c226283c4de5b1ad&type=tcp&headerType=none#Германия 🇩🇪 3
+vless://a80c969b-b6ba-49d4-9fb5-9a1a7c1c4e75@46.182.24.50:447?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=k7bOaMWpjIndkyWDw3WgzWTlE9mSYYbrvNDzdr0Nuwc&sid=c226283c4de5b1ad&type=tcp&headerType=none#Финляндия 🇫🇮 1
+vless://16a1eeb0-8408-4592-a469-ecd33751021e@194.55.239.170:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=a.res-nsdi.ru&fp=firefox&pbk=2i44blncih-bAe23xs__1d4v--k167IpJhzvznqkTW0&type=tcp&headerType=none#Германия 🇩🇪 4
+vless://16a1eeb0-8408-4592-a469-ecd33751021e@46.8.210.121:27455?encryption=none&security=tls&sni=mirage.flowwowdev.com&alpn=h3&fp=random&type=xhttp&mode=packet-up&path=%2F#Германия 🇩🇪 5
 
-vless://afc4a33d-7aa2-4022-b463-cbcb63d08520@31.129.42.56:80?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=grpc#Россия 🇷🇺 1
-vless://afc4a33d-7aa2-4022-b463-cbcb63d08520@185.91.53.185:80?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6&type=grpc&mode=gun&authority=&serviceName=xyz#Россия 🇷🇺 2
-vless://e6601d79-8a5f-46f9-a610-534a2703e1ce@81.94.148.119:65056?flow=xtls-rprx-vision&encryption=none&security=reality&sni=iv.kommersant.ru&fp=chrome&pbk=K6K0OS6d6Pg_GK3DwIOwjnXOdTVAyn7uEWeSUYECBhM&sid=d853dc58&type=tcp&headerType=none#Россия 🇷🇺 3
-hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?security=tls&fm=%7B%7D&sni=quic.tyr-agentstvo.tech#Нидерланды 🇳🇱 1
+
 # из подписок взятых с ботов 
 
 #LTE
