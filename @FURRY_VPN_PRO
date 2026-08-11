@@ -36,6 +36,7 @@ ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.7:8080#Wi-Fi Нид�
 ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.185:8080#Wi-Fi Нидерланды 🇳🇱 5
 vless://0fe1e823-0213-4479-8cdd-964e78bb748c@94.183.157.123:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=c-BHW_-nU9vrPfqKdAqwC_hp3kkOiGu7trFsGg0Wi2Q&sid=93299f&spx=%2FZLHT5gyPzFIuhWb&type=tcp&headerType=none#Wi-Fi Польша 🇵🇱 1
 
+vless://6e8836db-6288-4bf2-a24c-e08d97f63534@78.159.240.215:8443?encryption=none&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&fp=firefox&type=ws&path=%2Fwebsocket%3Fed%3D2560#Wi-Fi Нидерланды 🇳🇱 1
 #
 vless://@FURRY_VPN_FREE@DimaGinkelFurry#от @FURRY_VPN_FREE ⬇️
 #
@@ -51,7 +52,7 @@ vless://a80c969b-b6ba-49d4-9fb5-9a1a7c1c4e75@46.182.24.50:446?flow=xtls-rprx-vis
 vless://a80c969b-b6ba-49d4-9fb5-9a1a7c1c4e75@46.182.24.50:447?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=k7bOaMWpjIndkyWDw3WgzWTlE9mSYYbrvNDzdr0Nuwc&sid=c226283c4de5b1ad&type=tcp&headerType=none#Финляндия 🇫🇮 1
 vless://16a1eeb0-8408-4592-a469-ecd33751021e@194.55.239.170:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=a.res-nsdi.ru&fp=firefox&pbk=2i44blncih-bAe23xs__1d4v--k167IpJhzvznqkTW0&type=tcp&headerType=none#Германия 🇩🇪 7
 vless://16a1eeb0-8408-4592-a469-ecd33751021e@46.8.210.121:27455?encryption=none&security=tls&sni=mirage.flowwowdev.com&alpn=h3&fp=random&type=xhttp&mode=packet-up&path=%2F#Германия 🇩🇪 8
-
+vless://8033102198@159.195.40.19:443?encryption=none&security=tls&sni=de7.fast-connect-service.site&fp=firefox&flow=xtls-rprx-vision&type=tcp#Франция 🇫🇷 1
 # из подписок взятых с ботов 
 
 #LTE
