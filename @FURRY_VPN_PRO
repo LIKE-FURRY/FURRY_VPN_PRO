@@ -27,32 +27,22 @@ vless://pon9il@pavinsa#от @pavinsa ⬇️
 #Бс 
 
 
+
 # WI-FI
 
-ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.48:8080#Wi-Fi Нидерланды 🇳🇱 1
-ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.164:8080#Wi-Fi Нидерланды 🇳🇱 2
-ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.162:443#Wi-Fi Нидерланды 🇳🇱 3
-ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.7:8080#Wi-Fi Нидерланды 🇳🇱 4
-ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.185:8080#Wi-Fi Нидерланды 🇳🇱 5
-vless://0fe1e823-0213-4479-8cdd-964e78bb748c@94.183.157.123:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=c-BHW_-nU9vrPfqKdAqwC_hp3kkOiGu7trFsGg0Wi2Q&sid=93299f&spx=%2FZLHT5gyPzFIuhWb&type=tcp&headerType=none#Wi-Fi Польша 🇵🇱 1
 
-vless://6e8836db-6288-4bf2-a24c-e08d97f63534@78.159.240.215:8443?encryption=none&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&fp=firefox&type=ws&path=%2Fwebsocket%3Fed%3D2560#Wi-Fi Нидерланды 🇳🇱 6
+
 #
 vless://@FURRY_VPN_FREE@DimaGinkelFurry#от @FURRY_VPN_FREE ⬇️
 #
 
 # только отборный LTE
 
-vless://16a1eeb0-8408-4592-a469-ecd33751021e@194.55.239.169:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=b.res-nsdi.ru&fp=firefox&pbk=2i44blncih-bAe23xs__1d4v--k167IpJhzvznqkTW0&type=tcp&headerType=none#Германия 🇩🇪 1
-vless://bda0ede7-ef0a-4fbc-b3b6-1205e55ffb48@46.243.142.180:26443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=X3ukS8lu3cNsbazVqxhD7yoRNfofmLqb0LzOKcMAyTs&sid=1497fe3dff69ff78&spx=%2F&type=tcp&headerType=none#Германия 🇩🇪 2
-vless://bda0ede7-ef0a-4fbc-b3b6-1205e55ffb48@178.248.236.0:60443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=qq&pbk=l4a04BlcqPrdTrvx6uWjdSUr6ctSY6OfRvECpS4oR3E&sid=8f3c1a7d5be204c9&spx=%2F&type=tcp&headerType=none#Германия 🇩🇪 3
-trojan://a80c969b-b6ba-49d4-9fb5-9a1a7c1c4e75@46.182.24.50:2085?security=reality&sni=ads.x5.ru&fp=firefox&pbk=k7bOaMWpjIndkyWDw3WgzWTlE9mSYYbrvNDzdr0Nuwc&sid=c226283c4de5b1ad&type=tcp&headerType=none#Германия 🇩🇪 4
-vless://58a64424-53d2-4b44-87f4-136aad59d4fa@31.184.215.130:444?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=rI6DHOxduRhc-0r-vPZRspAY9za5XdYws0-STGOmEzk&sid=c226283c4de5b1ad&type=tcp&headerType=none#Германия 🇩🇪 5
-vless://a80c969b-b6ba-49d4-9fb5-9a1a7c1c4e75@46.182.24.50:446?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=k7bOaMWpjIndkyWDw3WgzWTlE9mSYYbrvNDzdr0Nuwc&sid=c226283c4de5b1ad&type=tcp&headerType=none#Германия 🇩🇪 6
-vless://a80c969b-b6ba-49d4-9fb5-9a1a7c1c4e75@46.182.24.50:447?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=k7bOaMWpjIndkyWDw3WgzWTlE9mSYYbrvNDzdr0Nuwc&sid=c226283c4de5b1ad&type=tcp&headerType=none#Финляндия 🇫🇮 1
-vless://16a1eeb0-8408-4592-a469-ecd33751021e@194.55.239.170:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=a.res-nsdi.ru&fp=firefox&pbk=2i44blncih-bAe23xs__1d4v--k167IpJhzvznqkTW0&type=tcp&headerType=none#Германия 🇩🇪 7
-vless://16a1eeb0-8408-4592-a469-ecd33751021e@46.8.210.121:27455?encryption=none&security=tls&sni=mirage.flowwowdev.com&alpn=h3&fp=random&type=xhttp&mode=packet-up&path=%2F#Германия 🇩🇪 8
-vless://8033102198@159.195.40.19:443?encryption=none&security=tls&sni=de7.fast-connect-service.site&fp=firefox&flow=xtls-rprx-vision&type=tcp#Франция 🇫🇷 1
+vless://8056bb0c-3e12-48d7-8bf5-3a3316f52d40@friendlynode.ru:443?encryption=none&security=tls&sni=friendlynode.ru&type=ws&host=friendlynode.ru&path=%2Fstream%2F928471%2Fsocket#Россия 🇷🇺 1
+vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@185.91.54.143:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eda.x5.ru&fp=firefox&pbk=4bcxPPoEZUA0xgDhPrGRCwtq984u00bVdKSM_wXtBi4&sid=8dad4f13199305c8&type=tcp&headerType=none#Россия 🇷🇺 2
+vless://7170c66c-3c0b-4cd0-acbb-01774a6b7179@81.163.23.248:443?encryption=none&security=tls&sni=selec248.apruxdomain.website&alpn=http%2F1.1&fp=firefox&type=ws&host=selec248.apruxdomain.website&path=%2Favi%2Fv1%2Finfo#Россия 🇷🇺 3
+vless://8a6c2aad-07ac-467e-85cd-db25e967b231@lunz3cg8gz.a.trbcdn.net:443?encryption=none&security=tls&sni=lunz3cg8gz.a.trbcdn.net&fp=firefox&type=xhttp&mode=packet-up&host=lunz3cg8gz.a.trbcdn.net&path=%2Fsession%2Fpreview&extra=%7B%22mode%22%3A%22packet-up%22%2C%22noGRPCHeader%22%3Atrue%2C%22noSSEHeader%22%3Atrue%2C%22path%22%3A%22%2Fsession%2Fpreview%22%2C%22scMaxBufferedPosts%22%3A100.0%2C%22scMaxConcurrentPosts%22%3A10.0%2C%22scMaxEachPostBytes%22%3A%223000000%22%2C%22scMinPostsIntervalMs%22%3A%225%22%2C%22seqKey%22%3A%22chunk_id%22%2C%22seqPlacement%22%3A%22query%22%2C%22serverMaxHeaderBytes%22%3A65536.0%2C%22sessionIDLength%22%3A%224-8%22%2C%22sessionIDTable%22%3A%22Base62%22%2C%22uplinkDataPlacement%22%3A%22auto%22%2C%22uplinkHTTPMethod%22%3A%22POST%22%2C%22xPaddingBytes%22%3A%221-4%22%2C%22xPaddingKey%22%3A%22pid%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22query%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%22800-1200%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%223%22%2C%22maxConnections%22%3A%220%22%7D%7D#Россия 🇷🇺 4
+
 # из подписок взятых с ботов 
 
 #LTE
@@ -60,4 +50,3 @@ vless://8033102198@159.195.40.19:443?encryption=none&security=tls&sni=de7.fast-c
 
 #Wi-Fi
 
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@fl3.rexten.cc:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl3.rexten.cc&fp=chrome&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%E2%99%BE%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F LTE/WIFI
