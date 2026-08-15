@@ -30,23 +30,11 @@ vless://pon9il@pavinsa#от @pavinsa ⬇️
 
 # ок 
 
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@media.morphai.cc:443?encryption=none&security=tls&sni=media.morphai.cc&alpn=h2%2C%20http%2F1.1&fp=qq&type=xhttp&mode=packet-up&host=media.morphai.cc&path=%2Fhls%2Fv2%2Ftrack%2F8e31c750%2F&extra=%7B%22path%22%3A%22%2F%22%2C%22seqKey%22%3A%22offset%22%2C%22sessionKey%22%3A%22media_sid%22%2C%22noSSEHeader%22%3Atrue%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22media_sid%22%2C%22uplinkDataKey%22%3A%22X-Playback-Token%22%2C%22hKeepAlivePeriod%22%3A30.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A1800.0%2C%22sessionPlacement%22%3A%22cookie%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxBufferedPosts%22%3A12.0%2C%22scMaxEachPostBytes%22%3A%22131072-262144%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22scMaxConcurrentPosts%22%3A1.0%2C%22scMinPostsIntervalMs%22%3A%225-10%22%2C%22scStreamUpServerSecs%22%3A%221-2%22%7D#🇵🇱LTE №1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@media.pranker.cc:443?encryption=none&security=tls&sni=media.pranker.cc&alpn=h2%2C%20http%2F1.1&fp=qq&type=xhttp&mode=packet-up&host=media.pranker.cc&path=%2Fhls%2Fv2%2Ftrack%2F33462a6d%2F&extra=%7B%22path%22%3A%22%2F%22%2C%22seqKey%22%3A%22offset%22%2C%22sessionKey%22%3A%22media_sid%22%2C%22noSSEHeader%22%3Atrue%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22media_sid%22%2C%22uplinkDataKey%22%3A%22X-Playback-Token%22%2C%22hKeepAlivePeriod%22%3A30.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A1800.0%2C%22sessionPlacement%22%3A%22cookie%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxBufferedPosts%22%3A12.0%2C%22scMaxEachPostBytes%22%3A%22131072-262144%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22scMaxConcurrentPosts%22%3A1.0%2C%22scMinPostsIntervalMs%22%3A%225-10%22%2C%22scStreamUpServerSecs%22%3A%221-2%22%7D#🇵🇱LTE №2
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@94.183.157.121:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eu-central.cendora.ru&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&headerType=none#🇵🇱LTE №3
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@mws.tunnelgate.org:14443?encryption=none&security=tls&sni=mws.tunnelgate.org&alpn=http%2F1.1&fp=qq&type=ws&path=%2Fpl#🇵🇱LTE №4
-vless://fd12bf77-bca4-4ccc-8bd0-76a2cfc5985a@194.55.239.164:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=c427&type=tcp&headerType=none#🇷🇺LTE №5
-vless://23da643f-f43c-4c83-af3f-4193eacd878d@ru13.cleanersaz.help:443?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=firefox&pbk=AGxinA57X7LbsntOsWKxhGeXP51edEpfnfUGH1mYK2U&sid=aaaa&type=xhttp&mode=packet-up&path=%2Fxhttp_client_upload#🇷🇺LTE №6
-vless://fd12bf77-bca4-4ccc-8bd0-76a2cfc5985a@194.55.239.164:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=firefox&sni=ads.vk.ru&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=c427#🇷🇺LTE №7
-vless://fd12bf77-bca4-4ccc-8bd0-76a2cfc5985a@194.55.239.164:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=ads.vk.ru&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=c427#🇷🇺LTE №8
-vless://52b202f9-493d-4b52-a656-64637f36afa7@46.254.18.27:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=firefox&type=ws&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560#🇷🇺LTE №9
-vless://fd12bf77-bca4-4ccc-8bd0-76a2cfc5985a@194.55.239.164:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=c427&type=tcp&headerType=none#🇷🇺LTE №10
-hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#🇪🇪LTE №11
-vless://fd12bf77-bca4-4ccc-8bd0-76a2cfc5985a@194.55.239.164:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=c427&type=tcp&headerType=none#🇪🇺LTE №12
-vless://f9a4f49f-6a60-466f-9911-3e35acdc43e1@ncd.crsmaps.com:443?encryption=none&security=tls&sni=ncd.crsmaps.com&alpn=h3%2C%20h2&fp=edge&type=ws&host=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522358#🇪🇺LTE №13
-vless://f9a4f49f-6a60-466f-9911-3e35acdc43e1@185.178.208.176:443?encryption=none&security=tls&sni=ncd.crsmaps.com&fp=edge&type=ws&host=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522358#🇧🇷LTE №14
+# они умерли за 2 дня 
 
-vless://fd12bf77-bca4-4ccc-8bd0-76a2cfc5985a@194.55.239.164:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=c427&type=tcp&headerType=none#🇪🇺 LTE/WIFI
- 
+
+
+
 # WI-FI
 
 
@@ -57,33 +45,21 @@ vless://@FURRY_VPN_FREE@DimaGinkelFurry#от @FURRY_VPN_FREE ⬇️
 
 # только отборный LTE
 
-
-vless://52b202f9-493d-4b52-a656-64637f36afa7@84.201.136.20:8443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=firefox&type=ws&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560#Россия 🇷🇺 1
-vless://c099de6a-0805-0002-b959-fd4ab4fc209e@46.8.210.166:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&sid=0f4daaf87f9dff&type=tcp&headerType=none#Россия 🇷🇺 2
-vless://52b202f9-493d-4b52-a656-64637f36afa7@46.254.18.27:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=firefox&type=ws&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560#Россия 🇷🇺 3
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@151.236.114.179:2027?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea&type=tcp&headerType=none#Россия 🇷🇺 4
-vless://fd12bf77-bca4-4ccc-8bd0-76a2cfc5985a@194.55.239.164:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=c427&type=tcp&headerType=none#Россия 🇷🇺 5
+vless://fd12bf77-bca4-4ccc-8bd0-76a2cfc5985a@194.55.239.164:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=c427&type=tcp&headerType=none#Россия 🇷🇺 1
+vless://52b202f9-493d-4b52-a656-64637f36afa7@84.201.136.20:8443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=firefox&type=ws&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560#Россия 🇷🇺 2
+trojan://How2NoddsJHNUMGdSrRsSTqBxYyKtWGb@90.156.218.126:2223?security=tls&sni=vkc7.secured-by-tenzo.sbs&alpn=h2%2C%20http%2F1.1&fp=firefox&type=tcp&headerType=none#Россия 🇷🇺 3
+vless://2f581cf2-a54e-4e34-bd59-2d6299b7635c@31.129.42.239:443?encryption=none&security=reality&sni=vk.com&fp=firefox&pbk=KwPeoAnP208rOsWWHSjhPKdpVzvIHpfBUltBHaBCSDs&sid=d9114354&type=grpc&mode=gun&authority=&serviceName=grpc8c948083b439#Россия 🇷🇺 4
+vless://d547e5fe-ebad-4574-8691-0f6844e6ed78@cdn.server2.cryptoofarm.com:443?encryption=none&security=tls&sni=cdn.server2.cryptoofarm.com&alpn=h2%2C%20http%2F1.1&fp=edge&type=xhttp&mode=packet-up&host=cdn.server2.cryptoofarm.com&path=%2Fapi%2FgetFile%2F&extra=%7B%22seqKey%22%3A%22chunk_id%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22X-Upload-Token%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingHeader%22%3A%22X-Client-Version%22%2C%22xPaddingKey%22%3A%22hash%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A1000.0%2C%22hKeepAlivePeriod%22%3A20000.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%22100%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0.0%7D%7D#Россия 🇷🇺 5
+vless://5510750d-8d1f-4e99-a068-b616d444d0da@ncd.crsmaps.com:443?encryption=none&security=tls&sni=ncd.crsmaps.com&alpn=h3%2C%20h2&fp=qq&type=ws&host=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522359#Россия 🇷🇺 6
+vless://5510750d-8d1f-4e99-a068-b616d444d0da@ncd.crsmaps.com:443?encryption=none&security=tls&sni=ncd.crsmaps.com&alpn=h3%2C%20h2&fp=edge&type=ws&host=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522358#Россия 🇷🇺 7
+vless://4fc88d4c-6371-4c50-8a1a-db5289e59992@84.201.167.190:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=WN0XIJgR2qVAMwaEgH3ps5msTGFAHFcuH0VHnfao83Y&sid=27e53bbcab7593d3&type=tcp&headerType=none#Россия 🇷🇺 8
+vless://c99e66e0-b662-4d77-9559-a1f1d9d3ff26@90.156.218.143:59843?flow=xtls-rprx-vision&encryption=none&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=1kpwQNJzgJg4EM1ahJrq1dDWM8briCR53o5LKJkA7UA&type=tcp&headerType=none#Россия 🇷🇺 9
 
 # из подписок взятых с ботов 
 
 #LTE
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@hltv.snowfalls.top:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=hltv.snowfalls.top&fp=edge&pbk=3bKk6C15-PGQ-jLUklwFWxMQUDu95Lr8Fq8G4Hb6fy8&sid=03e16fad529ab1e9&spx=%2F&type=tcp&headerType=none#Болгария 🇧🇬 1
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@davai.kupivodku.top:1443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=davai.kupivodku.top&fp=edge&pbk=h-ofuILZVZLM3zSC6NIFwL7T7TdXsEsKS04upiMzmQY&sid=0131f3e34341cb40&spx=%2F&type=tcp&headerType=none#Австрия 🇦🇹 1
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@bossnia.netotcluchai.top:1443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=bossnia.netotcluchai.top&fp=edge&pbk=aS94augCCytcbHRn37QNUfrBwAM2cp2RIXFL97yr50o&sid=0441f3e34348cb45&spx=%2F&type=tcp&headerType=none#Босния и Герцеговина 🇧🇦 1
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@unas.denegnet.cc:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=unas.denegnet.cc&fp=edge&pbk=RP93KQEzBP7wvvhwYy5c87IiQbV6xnsx7XgJpajevTA&sid=bc599ecdd54c1b3f&spx=%2F&type=tcp&headerType=none#Литва 🇱🇹 1
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@fudjia.buildsnow.top:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fudjia.buildsnow.top&fp=edge&pbk=nmPeOfYZT013UKwb2_Qz7j1cdUxxXs8cQ0c6Fy3drA4&sid=0940f3e34948cb41&spx=%2F&type=tcp&headerType=none#Чехия 🇨🇿 1
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@pls.snowfall.top:1443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pls.snowfall.top&fp=edge&pbk=jtEyL2mfSJ5rlvpMfYgkY6HaleCFRif0DnOOOXNHhxg&sid=0441f3e34348cb45&spx=%2F&type=tcp&headerType=none#Польша 🇵🇱 1
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@buhalvrome.denegnet.cc:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=buhalvrome.denegnet.cc&fp=edge&pbk=BZHYuWJM1Bm6Cqi806nq_cbTmdvANv5-8AlA2ex4NUA&sid=a88382ffbc59c48a&spx=%2F&type=tcp&headerType=none#Румыния 🇷🇴 1
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@unitking.snowfalls.top:1443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=unitking.snowfalls.top&fp=edge&pbk=Yf10DFHbCihRVIDaxQkkib1kEBy4uIf2vCiPml7M2AI&sid=0441f3e34348cb15&spx=%2F&type=tcp&headerType=none#Великобритания 🇬🇧 1
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@depa.kupivodku.top:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=depa.kupivodku.top&fp=random&pbk=JyGDRuOThmoCQ2pYD5VyPnFBKb25RqwqJ6-W-tNHBlY&sid=0491f3e34348cb95&spx=%2F&type=tcp&headerType=none#Греция 🇬🇷 1
-vless://8aca40d2-0f55-4ca2-97cb-b22ec432b82d@cdn.server2.cryptoofarm.com:443?encryption=none&security=tls&sni=cdn.server2.cryptoofarm.com&alpn=h2%2C%20http%2F1.1&fp=edge&type=xhttp&mode=packet-up&host=cdn.server2.cryptoofarm.com&path=%2Fapi%2FgetFile%2F&extra=%7B%22seqKey%22%3A%22chunk_id%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22X-Upload-Token%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingHeader%22%3A%22X-Client-Version%22%2C%22xPaddingKey%22%3A%22hash%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A1000.0%2C%22hKeepAlivePeriod%22%3A20000.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%22100%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0.0%7D%7D#Европа 🇪🇺 1
-vless://f9a4f49f-6a60-466f-9911-3e35acdc43e1@ncd.crsmaps.com:443?encryption=none&security=tls&sni=ncd.crsmaps.com&alpn=h3%2C%20h2&fp=edge&type=ws&host=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522358#Европа 🇪🇺 2
-vless://f9a4f49f-6a60-466f-9911-3e35acdc43e1@ncd.crsmaps.com:443?encryption=none&security=tls&sni=ncd.crsmaps.com&alpn=h3%2C%20h2&fp=qq&type=ws&host=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522359#Европа 🇪🇺 3
-vless://41f33146-7eb4-11f1-855a-d60b69bb56c6@nl.gruztrack.online:2053?encryption=none&security=reality&sni=nl.gruztrack.online&fp=firefox&pbk=75W-x6PKwwG6fJJbrIkGcsBgMKP7pQnw2HlM8oevDjM&sid=29c9b82395df8529&type=grpc&mode=gun&authority=nl.gruztrack.online&serviceName=grpc-direct#Европа 🇪🇺 4
-vless://41f33146-7eb4-11f1-855a-d60b69bb56c6@eu-gw.videomonitor.cloud:2053?encryption=none&security=reality&sni=dzen.ru&fp=chrome&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&sid=2c60309fa586eb60&type=grpc&mode=gun&authority=&serviceName=grpc-direct#Европа 🇪🇺 5
-vless://41f33146-7eb4-11f1-855a-d60b69bb56c6@de-gw.videomonitor.cloud:2087?encryption=none&security=reality&sni=de-gw.videomonitor.cloud&fp=chrome&pbk=LBsG9yP94EfV0y0hUGiraFdedsHbp4JjDp3XppkTnyQ&sid=11f2ad8421132110&type=grpc&mode=gun&authority=de-gw.videomonitor.cloud&serviceName=grpc-direct#Европа 🇪🇺 6
-vless://41f33146-7eb4-11f1-855a-d60b69bb56c6@95.163.183.68:2053?encryption=none&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=5b9dc5fe4ad87cc2&type=grpc&mode=gun&authority=&serviceName=grpc-direct#Европа 🇪🇺 7
-vless://41f33146-7eb4-11f1-855a-d60b69bb56c6@5.188.140.39:2053?encryption=none&security=reality&sni=hh.ru&fp=chrome&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=4b685844d0b4f724&type=grpc&mode=gun&authority=&serviceName=grpc-direct#Европа 🇪🇺 8
+
+
 
 #Wi-Fi
 
