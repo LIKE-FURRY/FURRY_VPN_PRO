@@ -39,7 +39,8 @@ vless://0aab2b19-c998-4344-9eba-5c38e8152b0c@217.19.122.113:4449?flow=xtls-rprx-
 vless://0aab2b19-c998-4344-9eba-5c38e8152b0c@217.19.122.49:4449?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=ee65bc721c91&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
 vless://0aab2b19-c998-4344-9eba-5c38e8152b0c@217.19.122.144:4449?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=ee65bc721c91&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
 
-hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#%F0%9F%87%AA%F0%9F%87%AA%20LTE%20%7C%20EE%20%7C%20Only%20MTC # не удаляй, он работает в бпла, НО только с оператором мтс
+hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#%F0%9F%87%AA%F0%9F%87%AA%20LTE%20%7C%20EE%20%7C%20Only%20MTC 
+# ↑↑↑ не удаляй, он работает в бпла, НО только с оператором мтс
 #из других впн | не на долго как я думаю 
 
 #
