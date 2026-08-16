@@ -30,7 +30,15 @@ vless://pon9il@pavinsa#от @pavinsa ⬇️
 #Сегодня мб добавлю еще номного хороших wi-fi 
 
 # Рабочие LTE
-
+vless://0aab2b19-c998-4344-9eba-5c38e8152b0c@78.159.245.203:4449?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=ee65bc721c91&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
+vless://0aab2b19-c998-4344-9eba-5c38e8152b0c@217.19.122.18:4449?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=ee65bc721c91&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
+vless://0aab2b19-c998-4344-9eba-5c38e8152b0c@185.141.227.107:4449?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=ee65bc721c91&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
+vless://c303ca92-ae83-403c-b79d-590dd594f8d8@cdn.server2.cryptoofarm.com:443?encryption=none&security=tls&sni=cdn.server2.cryptoofarm.com&alpn=h2%2C%20http%2F1.1&fp=edge&type=xhttp&mode=packet-up&host=cdn.server2.cryptoofarm.com&path=%2Fapi%2FgetFile%2F&extra=%7B%22seqKey%22%3A%22chunk_id%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22X-Upload-Token%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingHeader%22%3A%22X-Client-Version%22%2C%22xPaddingKey%22%3A%22hash%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A1000.0%2C%22hKeepAlivePeriod%22%3A20000.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%22100%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0.0%7D%7D#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
+vless://49cb5374-1120-423f-a7a5-f099573b4962@ncd.crsmaps.com:443?encryption=none&security=tls&sni=ncd.crsmaps.com&alpn=h3%2C%20h2&fp=qq&type=ws&host=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522359#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
+vless://0aab2b19-c998-4344-9eba-5c38e8152b0c@217.19.122.113:4449?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=ee65bc721c91&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
+vless://0aab2b19-c998-4344-9eba-5c38e8152b0c@217.19.122.49:4449?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=ee65bc721c91&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
+vless://0aab2b19-c998-4344-9eba-5c38e8152b0c@217.19.122.144:4449?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=ee65bc721c91&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
+#из других впн | не на долго как я думаю 
 
 # WI-FI / низкий пинг / высокая стабильность 
 vless://a04814d9-d006-4e7b-ae20-8ab304b3b429@151.242.17.99:8443?encryption=none&security=reality&sni=de.emvservice.com&fp=chrome&pbk=6Yskxg5U0WxPGtuCAAGH9uD57T4U8LeGrErTBNvIrwM&sid=bc&spx=%2F&type=grpc&mode=gun&authority=&serviceName=#%F0%9F%87%A9%F0%9F%87%AA%20Wi-Fi%20%7C%20DE
