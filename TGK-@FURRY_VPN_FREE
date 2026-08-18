@@ -29,6 +29,7 @@ vless://pon9il@pavinsa#от @pavinsa ⬇️
 #бля жалко, хорошие были, буду сегодня ноаые искать значит
 #Сегодня мб добавлю еще номного хороших wi-fi 
 
+# у меня свой vps появился я на нем впн сделал 
 # Рабочие LTE
 
 vless://c303ca92-ae83-403c-b79d-590dd594f8d8@cdn.server2.cryptoofarm.com:443?encryption=none&security=tls&sni=cdn.server2.cryptoofarm.com&alpn=h2%2C%20http%2F1.1&fp=edge&type=xhttp&mode=packet-up&host=cdn.server2.cryptoofarm.com&path=%2Fapi%2FgetFile%2F&extra=%7B%22seqKey%22%3A%22chunk_id%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22X-Upload-Token%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingHeader%22%3A%22X-Client-Version%22%2C%22xPaddingKey%22%3A%22hash%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A1000.0%2C%22hKeepAlivePeriod%22%3A20000.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%22100%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0.0%7D%7D#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%20EU
